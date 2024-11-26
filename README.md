@@ -1,5 +1,4 @@
 
-```markdown
 # Aspera FastQ Downloader
 
 这是一个用于从EBI数据库使用Aspera批量下载FastQ文件的Python脚本。
