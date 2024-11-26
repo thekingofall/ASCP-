@@ -31,7 +31,12 @@ git clone https://github.com/thekingofall/ASCPdown.git
 
 
 
+
 2. 确保已安装Aspera Connect并配置好环境
+
+```bash
+conda install rpetit3::aspera-connect
+```
 
 ## 使用方法
 
