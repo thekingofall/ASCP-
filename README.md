@@ -1,6 +1,8 @@
 
 # Aspera FastQ Downloader
 
+![image](https://github.com/user-attachments/assets/9c6acc3b-5469-47ca-85d3-1161eeecedc1)
+
 这是一个用于从EBI数据库使用Aspera批量下载FastQ文件的Python脚本。
 
 ## 功能特点
