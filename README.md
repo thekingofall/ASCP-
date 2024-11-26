@@ -21,8 +21,8 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/aspera-fastq-downloader.git
-cd aspera-fastq-downloader
+git clone https://github.com/thekingofall/ASCPdown.git
+
 ```
 
 
