@@ -26,6 +26,8 @@ git clone https://github.com/yourusername/aspera-fastq-downloader.git
 cd aspera-fastq-downloader
 ```
 
+
+
 2. 确保已安装Aspera Connect并配置好环境
 
 ## 使用方法
