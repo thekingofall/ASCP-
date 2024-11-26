@@ -3,10 +3,7 @@
 
 
 
-![image](https://github.com/user-attachments/assets/4b81da0f-da58-42da-b024-d1c48df0d0f6)
 
-
-![image](https://github.com/user-attachments/assets/9c6acc3b-5469-47ca-85d3-1161eeecedc1)
 
 这是一个用于从EBI数据库使用Aspera批量下载FastQ文件的Python脚本。
 
@@ -87,3 +84,10 @@ python Ascp_down.py --ascp-key /path/to/key --ascp-binary /path/to/ascp
 run_accession    fastq_ftp
 SRR14355886      ftp.sra.ebi.ac.uk/vol1/fastq/SRR143/086/SRR14355886/SRR14355886_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR143/086/SRR14355886/SRR14355886_2.fastq.gz
 ```
+### 前面步骤
+
+![image](https://github.com/user-attachments/assets/4b81da0f-da58-42da-b024-d1c48df0d0f6)
+
+![image](https://github.com/user-attachments/assets/d3b193c5-404c-4e6f-a2bc-f3513ab89250)
+
+![image](https://github.com/user-attachments/assets/9c6acc3b-5469-47ca-85d3-1161eeecedc1)
